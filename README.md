@@ -4,7 +4,7 @@ This is a responsive and interactive **FAQ Accordion** component built as part o
 
 ## 🔗 [Click here to see the demo](https://your-live-demo-link.com)
 
-![FAQ Accordion Preview](./assets/images/desktop-design.jpg)
+![FAQ Accordion Preview](https://amir-mirzakhani.github.io/FAQs/)
 
 ---
 
