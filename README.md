@@ -30,6 +30,6 @@ This is a responsive and interactive **FAQ Accordion** component built as part o
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/faq-accordion-card.git
-cd faq-accordion-card
+git clone https://github.com/amir-mirzakhani/FAQs.git
+cd FAQs
 open index.html
