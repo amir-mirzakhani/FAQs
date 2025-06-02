@@ -2,7 +2,7 @@
 
 This is a responsive and interactive **FAQ Accordion** component built as part of a [Frontend Mentor](https://www.frontendmentor.io) challenge. It’s designed to help improve HTML, CSS, and JavaScript skills by replicating real-world UI components.
 
-## 🔗 [Click here to see the demo](https://your-live-demo-link.com)
+## 🔗 [Click here to see the demo](https://amir-mirzakhani.github.io/FAQs/)
 
 ![FAQ Accordion Preview](./assets/images/desktop-design.jpg)
 
